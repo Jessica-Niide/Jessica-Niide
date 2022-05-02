@@ -4,4 +4,3 @@
 
 Eu sou formada em Física e estudo programação para desenvolvimento web. Tenho interesse em front-end, com estudo focado em HTML, CSS, JavaScript e React.
 
-Atualmente sou estudante da 42 São Paulo para aprofundar meu conhecimento de programação.
